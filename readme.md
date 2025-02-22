@@ -13,6 +13,7 @@ A simple command-line tool to download YouTube videos in MP4 format on macOS. Bu
 - Easy global command: `download "URL" quality`
 - Downloads in MP4 format
 - Multiple quality options
+- Audio-only mode (MP3)
 
 ## Installation
 
