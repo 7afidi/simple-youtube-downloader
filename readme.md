@@ -18,7 +18,7 @@ A simple command-line tool to download YouTube videos in MP4 format on macOS. Bu
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/youtube-downloader.git
+git clone https://github.com/7afidi/youtube-downloader.git
 cd youtube-downloader
 chmod +x install.sh
 ./install.sh
